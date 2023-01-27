@@ -1,0 +1,17 @@
+/Users/davidnavarrete/Projects/KISemana7/KISemana7/KISemana7/bin/Debug/netstandard2.0/KISemana7.deps.json
+/Users/davidnavarrete/Projects/KISemana7/KISemana7/KISemana7/bin/Debug/netstandard2.0/KISemana7.dll
+/Users/davidnavarrete/Projects/KISemana7/KISemana7/KISemana7/bin/Debug/netstandard2.0/ref/KISemana7.dll
+/Users/davidnavarrete/Projects/KISemana7/KISemana7/KISemana7/bin/Debug/netstandard2.0/KISemana7.pdb
+/Users/davidnavarrete/Projects/KISemana7/KISemana7/KISemana7/obj/Debug/netstandard2.0/KISemana7.csproj.AssemblyReference.cache
+/Users/davidnavarrete/Projects/KISemana7/KISemana7/KISemana7/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/davidnavarrete/Projects/KISemana7/KISemana7/KISemana7/obj/Debug/netstandard2.0/Login.xaml.g.cs
+/Users/davidnavarrete/Projects/KISemana7/KISemana7/KISemana7/obj/Debug/netstandard2.0/KISemana7.AssemblyInfoInputs.cache
+/Users/davidnavarrete/Projects/KISemana7/KISemana7/KISemana7/obj/Debug/netstandard2.0/KISemana7.AssemblyInfo.cs
+/Users/davidnavarrete/Projects/KISemana7/KISemana7/KISemana7/obj/Debug/netstandard2.0/KISemana7.csproj.CoreCompileInputs.cache
+/Users/davidnavarrete/Projects/KISemana7/KISemana7/KISemana7/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/davidnavarrete/Projects/KISemana7/KISemana7/KISemana7/obj/Debug/netstandard2.0/KISemana7.dll
+/Users/davidnavarrete/Projects/KISemana7/KISemana7/KISemana7/obj/Debug/netstandard2.0/ref/KISemana7.dll
+/Users/davidnavarrete/Projects/KISemana7/KISemana7/KISemana7/obj/Debug/netstandard2.0/KISemana7.pdb
+/Users/davidnavarrete/Projects/KISemana7/KISemana7/KISemana7/obj/Debug/netstandard2.0/ConsultaRegistro.xaml.g.cs
+/Users/davidnavarrete/Projects/KISemana7/KISemana7/KISemana7/obj/Debug/netstandard2.0/Elemento.xaml.g.cs
+/Users/davidnavarrete/Projects/KISemana7/KISemana7/KISemana7/obj/Debug/netstandard2.0/Registro.xaml.g.cs

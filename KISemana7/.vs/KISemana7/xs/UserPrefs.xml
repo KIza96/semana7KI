@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{71CC9C26-7C17-4832-935D-8DD826A75DF6}|Default">
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.pixel_5_-_api_27" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.KISemana7 FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="KISemana7/KISemana7/Login.xaml">
+    <Files>
+      <File FileName="KISemana7/KISemana7/Login.xaml" Line="18" Column="1" />
+      <File FileName="KISemana7/KISemana7/Login.xaml.cs" Line="12" Column="35" />
+      <File FileName="KISemana7/KISemana7/App.xaml.cs" Line="13" Column="28" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="KISemana7" expanded="True">
+            <Node name="KISemana7" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.KISemana7.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.KISemana7.Android PreferredExecutionTarget="Android.pixel_5_-_api_27" FirstBuild="True" />
+</Properties>
